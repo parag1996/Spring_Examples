@@ -8,7 +8,7 @@ public class Hello {
 	}
 	public static void main(String args[])
 	{
-		Hello hello=new Hello();
+		HelloStudent hello=new HelloStudent();
 		
 		System.out.println("Hello Spring Boot");
 	}
